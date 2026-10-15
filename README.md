@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Suprita Minajagi 👋
 
-<!--
-**supritaminajagi/supritaminajagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science Engineering Student | 2027 Graduate
 
-Here are some ideas to get you started:
+💻 I'm interested in software development, artificial intelligence, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- C
+- Python
+- Java
+- Web Development
+
+### 🚀 Projects
+- AI-Based Kidney Tumor Detection, Segmentation and Report Generation System
+- Blockchain-Based Projects
+
+### 🌱 Currently Learning
+- Git and GitHub
+- Software Development
+- Building practical projects
+
+### 📫 Connect with Me
+- GitHub: [@supritaminajagi](https://github.com/supritaminajagi)
